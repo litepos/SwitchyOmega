@@ -1,0 +1,2 @@
+# SwitchyOmega
+SwitchyOmega Ruls List

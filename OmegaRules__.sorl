@@ -1,0 +1,8 @@
+[SwitchyOmega Conditions]
+; Require: SwitchyOmega >= 2.3.2
+; Date: 2015/4/21
+; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
+
+*.quora.com
+*.yao.cl
+*.speedtest.net
